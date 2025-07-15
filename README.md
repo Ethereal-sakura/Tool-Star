@@ -518,11 +518,29 @@ We present the results of our Tool-Star model checkpoints with sizes 0.5B, 1.5B,
 
 If you find this work helpful, please cite our paper:
 ```bibtex
-@article{dong2025tool,
-  title={Tool-Star: Empowering LLM-Brained Multi-Tool Reasoner via Reinforcement Learning},
-  author={Dong, Guanting and Chen, Yifei and Li, Xiaoxi and Jin, Jiajie and Qian, Hongjin and Zhu, Yutao and Mao, Hangyu and Zhou, Guorui and Dou, Zhicheng and Wen, Ji-Rong},
-  journal={arXiv preprint arXiv:2505.16410},
-  year={2025}
+@article{dong2025toolstar,
+  author       = {Guanting Dong and
+                  Yifei Chen and
+                  Xiaoxi Li and
+                  Jiajie Jin and
+                  Hongjin Qian and
+                  Yutao Zhu and
+                  Hangyu Mao and
+                  Guorui Zhou and
+                  Zhicheng Dou and
+                  Ji{-}Rong Wen},
+  title        = {Tool-Star: Empowering LLM-Brained Multi-Tool Reasoner via Reinforcement
+                  Learning},
+  journal      = {CoRR},
+  volume       = {abs/2505.16410},
+  year         = {2025},
+  url          = {https://doi.org/10.48550/arXiv.2505.16410},
+  doi          = {10.48550/ARXIV.2505.16410},
+  eprinttype    = {arXiv},
+  eprint       = {2505.16410},
+  timestamp    = {Thu, 26 Jun 2025 07:49:34 +0200},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2505-16410.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 ```
 
