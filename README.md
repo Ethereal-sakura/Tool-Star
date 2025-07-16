@@ -321,7 +321,7 @@ In this section, we will deploy the retriever for performing search tasks on Wik
 
 More details can be found in the [FlashRAG documentation](https://github.com/RUC-NLPIR/FlashRAG/tree/main?tab=readme-ov-file#rocket-quick-start).
 
-To start the retriever serving, first fill in `scripts/serving/retriever_config.yaml` with the correct paths to the retrieval model, index, and corpus, as well as available GPU IDs. Then, run the following command to start the retriever serving:
+To start the retriever serving, first fill in `evaluation/search/serving_config.yaml` with the correct paths to the retrieval model, index, and corpus, as well as available GPU IDs. Then, run the following command to start the retriever serving:
 
 ```bash
 cd evaluation/search
