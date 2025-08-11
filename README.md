@@ -1,4 +1,5 @@
-<img width="581" height="601" alt="image" src="https://github.com/user-attachments/assets/de2daa31-8075-4c25-b18a-3be261a6760b" /><div align=center>
+
+<div align="center"> 
 <img src="https://github.com/dongguanting/Tool-Star/blob/main/img/image.png" width="120px">
 </div>
 
