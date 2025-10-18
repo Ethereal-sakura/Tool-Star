@@ -43,6 +43,32 @@
 - **[May 21, 2025]**: 🚀 Full codebase released. Tool-Star supports multiple Tools with several open-source models like Qwen2.5-3B-Instruct.
 
 
+
+## 🔥 Agentic RL Family
+
+<details open><summary>👏 Welcome to try our agentic RL series of algorithms: </summary><p>
+<!--  may -->
+
+
+> [**Agentic Entropy-Balanced Policy Optimization**]() <br>
+> **Authors:** Guanting Dong, Licheng Bao, Zhongyuan Wang, Kangzhi Zhao, Xiaoxi Li, Jiajie Jin, Jinghan Yang, Hangyu Mao, Fuzheng Zhang, Kun Gai, Guorui Zhou†, Yutao Zhu, Ji-Rong Wen, Zhicheng Dou† <br>
+> **TLDR:** An agentic RL algorithm designed to balance entropy in both the rollout and policy update phases. <br>
+[![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/RUC-NLPIR/ARPO) [![github](https://img.shields.io/github/stars/RUC-NLPIR/ARPO.svg?style=social)](https://github.com/RUC-NLPIR/ARPO) [![arXiv](https://img.shields.io/badge/Arxiv-2510.14545-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2510.14545) [![Paper](https://img.shields.io/badge/Hugging%20Face-Paper-yellow?logo=huggingface)](https://huggingface.co/papers/2510.14545) [![Collection](https://img.shields.io/badge/Hugging%20Face-Dataset%20&%20Models-yellow?logo=huggingface)](https://huggingface.co/collections/dongguanting/aepo-68ef6832c99697ee03d5e1c7) [![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FKevin_GuoweiXu%2Fstatus%2F1858338565463421244)]()
+
+
+> [**Agentic Reinforced Policy Optimization**](https://arxiv.org/abs/2507.19849) <br>
+> **Authors:** Guanting Dong, Hangyu Mao, Kai Ma, Licheng Bao , Yifei Chen, Zhongyuan Wang, Zhongxia Chen, Jiazhen Du, Huiyang Wang, Fuzheng Zhang, Guorui Zhou†, Yutao Zhu, Ji-Rong Wen, Zhicheng Dou† <br>
+> **TLDR:** An agentic RL algorithm encourage the policy model to adaptively branch sampling during high-entropy tool-call rounds, <br>
+[![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/RUC-NLPIR/ARPO) [![github](https://img.shields.io/github/stars/RUC-NLPIR/ARPO.svg?style=social)](https://github.com/RUC-NLPIR/ARPO) [![arXiv](https://img.shields.io/badge/Arxiv-2507.19849-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2507.19849) [![Paper](https://img.shields.io/badge/Hugging%20Face-Paper-yellow?logo=huggingface)](https://huggingface.co/papers/2507.19849) [![Collection](https://img.shields.io/badge/Hugging%20Face-Dataset%20&%20Models-yellow?logo=huggingface)](https://huggingface.co/collections/dongguanting/arpo-688229ff8a6143fe5b4ad8ae) [![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FKevin_GuoweiXu%2Fstatus%2F1858338565463421244)](https://x.com/_akhaliq/status/1950172418250547478)
+
+> [**Tool-Star: Empowering LLM-Brained Multi-Tool Reasoner via Reinforcement Learning**](https://arxiv.org/abs/2505.16410) <br>
+> **Authors:** Guanting Dong, Yifei Chen, Xiaoxi Li, Jiajie Jin, Hongjin Qian, Yutao Zhu, Hangyu Mao, Guorui Zhou, Zhicheng Dou†, Ji-Rong Wen <br>
+> **TLDR:** An end-to-end TIR post-training framework that empowers LLMs to autonomously interact with multi-tool environments through Self-Critic RL design<br>
+[![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/RUC-NLPIR/Tool-Star) [![github](https://img.shields.io/github/stars/RUC-NLPIR/Tool-Star.svg?style=social)](https://github.com/RUC-NLPIR/Tool-Star) [![arXiv](https://img.shields.io/badge/Arxiv-2505.16410-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2505.16410) [![Paper](https://img.shields.io/badge/Hugging%20Face-Paper-yellow?logo=huggingface)](https://huggingface.co/papers/2505.16410) [![Collection](https://img.shields.io/badge/Hugging%20Face-Dataset%20&%20Models-yellow?logo=huggingface)](https://huggingface.co/collections/dongguanting/tool-star-682fd73dfa508bf3f40da032) [![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FKevin_GuoweiXu%2Fstatus%2F1858338565463421244)](https://x.com/_akhaliq/status/1925924431676821698)
+</p></details>
+
+
+
 ## :mag_right: Roadmap
 
 Tool-star is still under development and there are many issues and room for improvement. We will continue to update. And we also sincerely welcome contributions on this open-source toolkit.
